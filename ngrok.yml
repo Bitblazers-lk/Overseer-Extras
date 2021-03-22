@@ -1,0 +1,5 @@
+region: ap
+console_ui: false
+update: true
+web_addr: localhost:36129
+log_level: error
